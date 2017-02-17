@@ -81,5 +81,5 @@ Some examples of interactions
 ## What next?
 
 - we can provide the knowledge base with some initial knowledge, in the form of an [ontology](https://en.wikipedia.org/wiki/Ontology_(information_science)). Check how to create an ontology with [Protege](http://protege.stanford.edu/products.php) or download the [oro common-sense ontology](http://kb.openrobots.org) for robots (save the XML file as `commonsense.owl`). You can then load this initial knowledge into `minimalkb` by simply running `minimalkb commonsense.owl`.
-- we need to keep feeding the knowledge base with newly acquired knowledge: track faces, detect objects, keep up-to-date what is where and where is what.
+- we need to keep feeding the knowledge base with newly acquired knowledge: [track faces](https://github.com/severin-lemaignan/gazr), [detect objects](https://github.com/chili-epfl/chilitags), keep up-to-date what is where and where is what.
 - write a robot controller that can take of the knowledge base. For instance, [pyRobots](https://github.com/severin-lemaignan/pyrobots)
