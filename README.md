@@ -1,5 +1,5 @@
-Social Robotics: A Tutorial
-===========================
+How to add a bit of cognition into a robot
+==========================================
 
 
 
